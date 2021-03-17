@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         ANTI: Wang Wei by maomaolv
+// @name         UAW: Anti Wang Wei by maomaolv
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Block All Wang Wei by maomaolv
-// @author       You
+// @author       VitoVan
 // @match        https://*.v2ex.com/*
 // @grant        none
 // ==/UserScript==
