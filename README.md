@@ -19,10 +19,10 @@ https://greasyfork.org/en/scripts/423409-anti-wang-wei-by-maomaolv
 
 # Screenshots
 
-![List 1](List-1.png)
+![List 1](https://github.com/VitoVan/anti-wangwei/raw/main/List-1.png)
 
-![List 2](List-2.png)
+![List 2](https://github.com/VitoVan/anti-wangwei/raw/main/List-2.png)
 
-![Wang Wei Page](WW-Page.png)
+![Wang Wei Page](https://github.com/VitoVan/anti-wangwei/raw/main/WW-Page.png)
 
-![Article Page](Article-Page.png)
+![Article Page](https://github.com/VitoVan/anti-wangwei/raw/main/Article-Page.png)
