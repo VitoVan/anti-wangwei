@@ -15,7 +15,7 @@ https://greasyfork.org/en/scripts/423409-anti-wang-wei-by-maomaolv
 # Related
 
 - “王伟” 为猫猫驴编写的短篇故事中，所虚构的一个人物。
-- 王伟宇宙：https://www.v2ex.com/notes/43539
+- 王伟宇宙：https://www.v2ex.com/p/3SS1131M
 
 # Screenshots
 
