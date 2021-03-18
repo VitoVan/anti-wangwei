@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         UAW: Anti Wang Wei by maomaolv
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Block All Wang Wei by maomaolv
 // @author       VitoVan
 // @match        https://*.v2ex.com/*
+// @match        https://v2ex.com/*
 // @grant        none
 // ==/UserScript==
 
@@ -19,7 +20,7 @@
     if (wwUpdateDate != todayUTCDate) { // Need Update
         console.debug(`ANTI-WW: Updating List (${wwUpdateDate} / ${todayUTCDate})`);
         // Load Anti List
-        const wwUniResp = await fetch('https://www.v2ex.com/p/3SS1131M');
+        const wwUniResp = await fetch(`${location.origin}/p/3SS1131M`);
         wwUniText = await wwUniResp.text();
         window.localStorage.setItem('wwUpdateDate', todayUTCDate);
         window.localStorage.setItem('wwUniText', wwUniText);
