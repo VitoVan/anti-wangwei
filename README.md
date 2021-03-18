@@ -9,7 +9,7 @@ https://greasyfork.org/en/scripts/423409-anti-wang-wei-by-maomaolv
 安装后：
 
 1. V2EX 站内所有相关链接均涂黑标题，且无法点击
-2. 直接点击链接进入相关页面，将显示 “已屏蔽”
+2. 直接通过链接进入相关页面，将显示 “已屏蔽”
 3. 每日（UTC）首次加载会更新屏蔽链接列表
 
 # Related
