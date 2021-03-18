@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UAW: Anti Wang Wei by maomaolv
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Block All Wang Wei by maomaolv
 // @author       VitoVan
 // @match        https://*.v2ex.com/*
@@ -13,7 +13,7 @@
     // Add Anti Class
     document.head.insertAdjacentHTML("beforeend", `<style type="text/css">.hideWW{background-color:black !important;color:black !important;text-shadow:none !important;pointer-events:none !important;}</style>`)
     // Check Anti List
-    const todayUTCDate = (new Date()).getUTCDate();
+    const todayUTCDate = new Date().getUTCDate();
     var wwUpdateDate = window.localStorage.getItem('wwUpdateDate');
     var wwUniText = '';
     if (wwUpdateDate != todayUTCDate) { // Need Update
