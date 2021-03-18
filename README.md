@@ -4,7 +4,7 @@
 
 # Install UserScript:
 
-https://greasyfork.org/en/scripts/423409-anti-wang-wei-by-maomaolv
+https://greasyfork.org/en/scripts/423409-uaw-anti-wang-wei-by-maomaolv
 
 安装后：
 
